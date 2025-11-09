@@ -27,14 +27,14 @@
 
 | 序号 | 文章链接 |
 |------|----------|
-| 1 | [大模型炼丹术(一)：从 tokenizer 开始，为自回归预训练准备数据集](./llm-in-depth/s1-foundations/从tokenizer说起，为LLM自回归预训练准备数据集-大模型炼丹术(一).md) |
-| 2 | [大模型炼丹术(二)：从离散 token IDs 到具有语义信息的 embedding](./llm-in-depth/s1-foundations/从离散的tokenID到具有语义信息的embedding-大模型炼丹术(二).md) |
-| 3 | [大模型炼丹术(三)：从单头到多头，深度解析注意力机制](./llm-in-depth/s1-foundations/从单头到多头，深度解析大模型的注意力机制-大模型炼丹术(三).md) |
-| 4 | [大模型炼丹术(四)：动手搭建 GPT-2 架构](./llm-in-depth/s1-foundations/动手搭建GPT2架构-大模型炼丹术(四).md) |
-| 5 | [大模型炼丹术(五)：LLM 自回归预训练过程详解](./llm-in-depth/s1-foundations/LLM自回归预训练过程详解-大模型炼丹术(五).md) |
-| 6 | [大模型炼丹术(六)：剖析 LLM 的解码策略](./llm-in-depth/s1-foundations/剖析LLM的解码策略-大模型炼丹术(六).md) |
-| 7 | [大模型炼丹术(七)：LLM 微调：训练一个垃圾邮件分类器](./llm-in-depth/s1-foundations/LLM微调：训练一个垃圾邮件分类器-大模型炼丹术(七).md) |
-| 8 | [大模型炼丹术(八)：LLM 指令微调：训练一个人工智能助手](./llm-in-depth/s1-foundations/LLM指令微调：训练一个人工智能助手-大模型炼丹术(八).md) |
+| 1 | [大模型炼丹术(一)：从 tokenizer 开始，为自回归预训练准备数据集](./docs/s1-foundations/从tokenizer说起，为LLM自回归预训练准备数据集-大模型炼丹术(一).md) |
+| 2 | [大模型炼丹术(二)：从离散 token IDs 到具有语义信息的 embedding](./docs/s1-foundations/从离散的tokenID到具有语义信息的embedding-大模型炼丹术(二).md) |
+| 3 | [大模型炼丹术(三)：从单头到多头，深度解析注意力机制](./docs/s1-foundations/从单头到多头，深度解析大模型的注意力机制-大模型炼丹术(三).md) |
+| 4 | [大模型炼丹术(四)：动手搭建 GPT-2 架构](./docs/s1-foundations/动手搭建GPT2架构-大模型炼丹术(四).md) |
+| 5 | [大模型炼丹术(五)：LLM 自回归预训练过程详解](./docs/s1-foundations/LLM自回归预训练过程详解-大模型炼丹术(五).md) |
+| 6 | [大模型炼丹术(六)：剖析 LLM 的解码策略](./docs/s1-foundations/剖析LLM的解码策略-大模型炼丹术(六).md) |
+| 7 | [大模型炼丹术(七)：LLM 微调：训练一个垃圾邮件分类器](./docs/s1-foundations/LLM微调：训练一个垃圾邮件分类器-大模型炼丹术(七).md) |
+| 8 | [大模型炼丹术(八)：LLM 指令微调：训练一个人工智能助手](./docs/s1-foundations/LLM指令微调：训练一个人工智能助手-大模型炼丹术(八).md) |
 
 ---
 
@@ -56,18 +56,18 @@
 
 | 序号 | 文章链接 |
 |------|----------|
-| 1 | [MiniMind 源码解读（一）：如何从头训练 tokenizer](./llm-in-depth/s2-advanced/1-如何从头训练tokenizer.md) |
-| 2 | [MiniMind 源码解读（二）：一行代码之差，模型性能提升背后的 RMSNorm 玄机](./llm-in-depth/s2-advanced/2-一行代码之差，模型性能提升背后的RMSNorm玄机.md) |
-| 3 | [MiniMind 源码解读（三）：原始 Transformer 的位置编码及其缺陷](./llm-in-depth/s2-advanced/3-原始Transformer的位置编码及其缺陷.md) |
-| 4 | [MiniMind 源码解读（四）：旋转位置编码原理与应用全解析](./llm-in-depth/s2-advanced/4-旋转位置编码原理与应用全解析.md) |
-| 5 | [MiniMind 源码解读（五）：魔改注意力机制，细数当代 LLM 的效率优化手段](./llm-in-depth/s2-advanced/5-魔改的注意力机制，细数当代LLM的效率优化手段.md) |
-| 6 | [MiniMind 源码解读（六）：从稠密到稀疏，详解专家混合模型 MoE](./llm-in-depth/s2-advanced/6-从稠密到稀疏，详解专家混合模型MOE.md) |
-| 7 | [MiniMind 源码解读（七）：像搭积木一样构建一个大模型](./llm-in-depth/s2-advanced/7-像搭积木一样构建一个大模型.md) |
-| 8 | [MiniMind 源码解读（八）：LLM 预训练实践](./llm-in-depth/s2-advanced/8-LLM预训练流程全解.md) |
-| 9 | [MiniMind 源码解读（九）：指令微调详解，让大模型从“能说”变得“会听”](./llm-in-depth/s2-advanced/9-指令微调详解-让大模型从“能说”变得“会听”.md) |
-| 10 | [MiniMind 源码解读（十）：DPO - 大模型对齐训练新范式](./llm-in-depth/s2-advanced/10-DPO-大模型对齐训练的新范式.md) |
-| 11 | [MiniMind 源码解读（十一）：LoRA - LLM 轻量化微调利器](./llm-in-depth/s2-advanced/11-LoRA-LLM轻量化微调的利器.md) |
-| 12 | [MiniMind 源码解读（十二）：从白盒到黑盒，全面掌握大模型蒸馏技术](./llm-in-depth/s2-advanced/12-从白盒到黑盒，全面掌握大模型蒸馏技术.md) |
+| 1 | [MiniMind 源码解读（一）：如何从头训练 tokenizer](./docs/s2-advanced/1-如何从头训练tokenizer.md) |
+| 2 | [MiniMind 源码解读（二）：一行代码之差，模型性能提升背后的 RMSNorm 玄机](./docs/s2-advanced/2-一行代码之差，模型性能提升背后的RMSNorm玄机.md) |
+| 3 | [MiniMind 源码解读（三）：原始 Transformer 的位置编码及其缺陷](./docs/s2-advanced/3-原始Transformer的位置编码及其缺陷.md) |
+| 4 | [MiniMind 源码解读（四）：旋转位置编码原理与应用全解析](./docs/s2-advanced/4-旋转位置编码原理与应用全解析.md) |
+| 5 | [MiniMind 源码解读（五）：魔改注意力机制，细数当代 LLM 的效率优化手段](./docs/s2-advanced/5-魔改的注意力机制，细数当代LLM的效率优化手段.md) |
+| 6 | [MiniMind 源码解读（六）：从稠密到稀疏，详解专家混合模型 MoE](./docs/s2-advanced/6-从稠密到稀疏，详解专家混合模型MOE.md) |
+| 7 | [MiniMind 源码解读（七）：像搭积木一样构建一个大模型](./docs/s2-advanced/7-像搭积木一样构建一个大模型.md) |
+| 8 | [MiniMind 源码解读（八）：LLM 预训练实践](./docs/s2-advanced/8-LLM预训练流程全解.md) |
+| 9 | [MiniMind 源码解读（九）：指令微调详解，让大模型从“能说”变得“会听”](./docs/s2-advanced/9-指令微调详解-让大模型从“能说”变得“会听”.md) |
+| 10 | [MiniMind 源码解读（十）：DPO - 大模型对齐训练新范式](./docs/s2-advanced/10-DPO-大模型对齐训练的新范式.md) |
+| 11 | [MiniMind 源码解读（十一）：LoRA - LLM 轻量化微调利器](./docs/s2-advanced/11-LoRA-LLM轻量化微调的利器.md) |
+| 12 | [MiniMind 源码解读（十二）：从白盒到黑盒，全面掌握大模型蒸馏技术](./docs/s2-advanced/12-从白盒到黑盒，全面掌握大模型蒸馏技术.md) |
 
 ---
 
