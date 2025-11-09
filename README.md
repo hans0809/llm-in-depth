@@ -16,6 +16,8 @@
 ### 基础篇--《大模型炼丹术》 1️⃣
 > 💡 基础篇主要介绍核心概念，帮助你快速上手 LLM。
 
+基础篇主要参考了[《Building LLMs from scratch》](https://www.youtube.com/watch?v=-bsa3fCNGg4&list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu)
+
 学完基础篇，你将掌握 LLM 的核心知识，包括：
 
 - Tokenizer 与数据预处理  
@@ -41,8 +43,6 @@
 ### 进阶篇 -- 《MiniMind 源码解读》 2️⃣
 
 > 💡 [MiniMind](https://github.com/jingyaogong/minimind) 是一个轻量级大语言模型开源项目，代码规范易读，并且涵盖了现代 LLM 的核心技术点。进阶篇将通过对MiniMind源码解读的方式，深入 LLM 内部机制，讲解现代大语言模型的关键技术与优化方法。事实上，**可以将进阶篇看作是对于基础篇中一些未提及的核心概念的查漏补缺**。
-
-
 
 学完进阶篇，你将掌握：
 
